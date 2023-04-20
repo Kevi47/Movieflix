@@ -1,6 +1,6 @@
 import "./App.scss";
 import Movies from "./Components/Movies/Movies";
-import { BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Link, Route, Routes } from "react-router-dom";
 import Main from "./Components/Main/Main";
 function App() {
   return (
