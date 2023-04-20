@@ -1,0 +1,25 @@
+.Nav1 {
+  text-decoration: dotted;
+  background-color: rgb(76, 0, 0);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: small;
+  position: fixed;
+  width: 100%;
+}
+.Nav2 {
+  color: white;
+  text-decoration: none;
+  padding-left: 20px;
+  background-color: transparent;
+}
+
+.Nav2:hover {
+  color: rgb(243, 133, 133);
+}
+* {
+  margin: 0%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(104 3 3);
+  color: white;
+}
